@@ -7,7 +7,8 @@
 ## Branch Instructions
 
 This is a branch storing my uncompleted documents.  
-There may be many wrong stuff in it.
+There may be many wrong stuff in it.  
+p.s. the fastest update is this branch.
 
 
 
