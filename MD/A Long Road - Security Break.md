@@ -6,9 +6,9 @@
 
    10:00 p.m. , Technology Center.  
 
-> Radio: Caution! Caution! Kernel panic. Kernel panic. 
-> Radio: Kernel replacing required. 
-> Radio: Kernel file not found. Please replace the kernel file and reboot.
+> Radio: Caution! Caution! Kernel panic. Kernel panic.  
+> Radio: Kernel replacing required.  
+> Radio: Kernel file not found. Please replace the kernel file and reboot.  
 
 
 
