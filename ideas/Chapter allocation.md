@@ -14,13 +14,13 @@
 8. Happy Vimming!
 9. Full terminal operations
 10. Incident Fall
-11. Decision II "IDE Selection"
+11. The More Important Thing
 12. Microsoft Policy
 13. Version Controls & Remote Repository
 14. Not a fully integrated integration
 15. Decision III "A Hard Return"
 16. Atom's 1/2 IDE
-17. Gtk+ Graphical Library
+17. External Libraries
 18. Return of GDB
 19. GNU Make
 20. Last Remote
