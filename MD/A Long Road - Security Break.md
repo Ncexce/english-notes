@@ -52,4 +52,33 @@ install complete. I think I have the compiler now, although I still don't know h
 > Finally,  I guess it's you, Ncexce to do the job of programming. Considering on your side, you should been already switched on the OS linux. This is a good thing because it's legacy development route is very useful especially for kernel developing.  
 > Let me guess if you have switched to Ubuntu 20.04 LTS since it's the most popular system right now.
 >
+> ##### Thread #2 - ID: Description
+>
+> Ubuntu 20.04 LTS Uses the GNOME desktop system, which use the GNOME shell  as the terminal. Use the keyboard shortcut <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> to open the terminal. You can invoke the GCC compiler directly through using the gcc command. There are many other ways of invoking the compiler. Now you've get to be use to using the terminal. I will talk about the shell usages. Firstly, the shell will execute the command that we give, this is with no doubt. And when we give commands, the shell will also show us the process usually.  
+> Shell commands are all programs, and many of them was build-in programs, such as `mkdir`,`shutdown`,`rm`,etc. the gcc which you installed was also like this.  
+> A full command will act like this:
+>
+> ```shell  
+> command-name [-arg1|-arg2][--argument1|--argument2] IOFiles
+> ```
+>
+> `command-name` is the name of the command.  
+> `-arg1`,`-arg2`,`--argument1`,`--argument2` is the arguments, which the abbreviations written in one dash and the full one in two dashes.
+> `IOFiles` is the file\(s\) you want to process. For example:  
+>
+> ```shell
+> gcc -c -o outputexecutive main.cc
+> ```
+>
+> this will let the compiler read the source code `main.cc` and output the executable file `outputexecutive` to the working directory.  
+> As for the working directory, it even more easy. it is where the shell is located at.you can check it by the command `pwd` .  
+>
+> GCC have some main arguments including the `-o`,`-c`. The `-o` option will let you specify where the processed file will be placed. The `-c` option will let the compiler only compile without linking directly. This is very useful if you are using multiple headers.
+>
+> If you have some extra needs or need some more help, always use the `man` command. This command's usage is: `man command-name`. i.e.`man gcc`  
 > 
+>
+> This is the end of this remote assist. Now make your first try. Good luck.
+>
+> ***
+
