@@ -71,7 +71,7 @@ install complete. I think I have the compiler now, although I still don't know h
 > ```
 >
 > this will let the compiler read the source code `main.cc` and output the executable file `outputexecutive` to the working directory.  
-> As for the working directory, it even more easy. it is where the shell is located at.you can check it by the command `pwd` .  
+> As for the working directory, it even easier. it is where the shell is located at.you can check it by the command `pwd` .  
 >
 > GCC have some main arguments including the `-o`,`-c`. The `-o` option will let you specify where the processed file will be placed. The `-c` option will let the compiler only compile without linking directly. This is very useful if you are using multiple headers.
 >
