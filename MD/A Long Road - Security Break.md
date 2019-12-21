@@ -44,7 +44,7 @@ install complete. I think I have the compiler now, although i still don't know h
 
 > #### Remote Assist #38CAD7 - 2 active connections  
 >
-> ##### Thread #1  - ID: Autoemail  
+> ##### Thread #1  - ID: Auto-email  
 >
 > 
 >
