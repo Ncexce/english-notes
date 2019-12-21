@@ -46,6 +46,10 @@ install complete. I think I have the compiler now, although I still don't know h
 >
 > ##### Thread #1  - ID: Auto-email  
 >
-> If you are watching this, it means that you
+> If you are watching this, it means that you are stricken by three things.  
+> First, I cannot come back right now but the security system bay be broken. So you have to repair it yourselves.  
+> Next, The kernel files are missing and you may still don't know the arguments of the security system. This is the most complicated thing because a kernel needs the traffics with the base hardware.  
+> Finally,  I guess it's you, Ncexce to do the job of programming. Considering on your side, you should been already switched on the OS linux. This is a good thing because it's legacy development route is very useful especially for kernel developing.  
+> Let me guess if you have switched to Ubuntu 20.04 LTS since it's the most popular system right now.
 >
 > 
