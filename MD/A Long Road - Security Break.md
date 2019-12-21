@@ -46,6 +46,6 @@ install complete. I think I have the compiler now, although I still don't know h
 >
 > ##### Thread #1  - ID: Auto-email  
 >
-> 
+> If you are watching this, it means that you
 >
 > 
