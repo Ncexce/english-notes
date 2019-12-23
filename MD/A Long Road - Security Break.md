@@ -87,11 +87,13 @@ Installation complete. I think I have the compiler now, for even though I still 
 ## First Failure
 
    Completed reading this remote assist, and now I know how to use my programming skill to repair it. So after several hours of practicing, I started to write my first header. thanks to the editor gedit, my process has become faster.  
-   Then, I made my first try. it was easy at first,but then I found that the code cannot be compiled successfully. It need a debugger to guide e through the code so I can know what;s going on with the code I wrote.  
+   Then, I made my first try. it was easy at first,but then I found that the code cannot be compiled successfully. It need a debugger to guide e through the code so I can know what's going on with the code I wrote.  
    Finally, the compilation was finished. But when I opened it, something hilarious happened. The program started twitching oddly on the screen. I had it enough. I must look for a debugger in unix right now.  
 
 
 
 ## GDB
 
-   
+   Browsing the internet, I have found the popular debugger for the linux system. It seems it's called GDB, full name GNU Debugger. I haven't research its usage yet. Then I've tried the command `man gdb`, but I only got a lot of complicated arguments and descriptions. Yet, I only know that it's a powerful debugger.  
+   Opening a browser, I tried to find something about the GDB. Then I run some commands on the web, such as: `gdb run` `gdb filename`, etc.
+
