@@ -95,5 +95,9 @@ Installation complete. I think I have the compiler now, for even though I still 
 ## GDB
 
    Browsing the internet, I have found the popular debugger for the linux system. It seems it's called GDB, full name GNU Debugger. I haven't research its usage yet. Then I've tried the command `man gdb`, but I only got a lot of complicated arguments and descriptions. Yet, I only know that it's a powerful debugger.  
-   Opening a browser, I tried to find something about the GDB. Then I run some commands on the web, such as: `gdb run` `gdb filename`, etc.
+   Opening a browser, I tried to find something about the GDB. Then I run some commands on the web, such as: `gdb run` `gdb filename`, etc.  
+   Then, I gradually got on the operation of the debugger GDB. It was indeed a powerful debugger, but a it was a little hard to use.  
+   However, I still don't know how to set a breakpoint.
+
+## Another Chance Unselected
 
