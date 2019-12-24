@@ -95,9 +95,18 @@ Installation complete. I think I have the compiler now, for even though I still 
 ## GDB
 
    Browsing the internet, I have found the popular debugger for the linux system. It seems it's called GDB, full name GNU Debugger. I haven't research its usage yet. Then I've tried the command `man gdb`, but I only got a lot of complicated arguments and descriptions. Yet, I only know that it's a powerful debugger.  
-   Opening a browser, I tried to find something about the GDB. Then I run some commands on the web, such as: `gdb run` `gdb filename`, etc.  
+   Opening a browser, I tried to find something about the GDB. Then I run some commands on the web, such as: `gdb run`, `gdb filename`, etc.  
    Then, I gradually got on the operation of the debugger GDB. It was indeed a powerful debugger, but a it was a little hard to use.  
    However, I still don't know how to set a breakpoint.
 
 ## Another Chance Unselected
 
+   Recently, I've noticed a newly upped stream, it's called the IDE, The `Integrated Development Environment`. It combined the compiler, the debugger, the text editor together. It seems it's a much more convenient option, so I decided to give it a try.  
+   The one I've seen is called the Kdevelop, the most "Advanced" one. I followed their command:
+
+```shell
+sudo apt-get install kdevelop
+```
+
+​    Installation complete. `Alt+F2`,`kdevelop`,launch. Well, in my expectations, I've seen a complicated GUI, just like in windows. However, getting used to the mode in linux, I have no interests in it.  
+   I tried to build a simple software, but then a message box popped up and showed that I needed a kit to build. I was fed up. Even it's powerful, I don't want to use it anymore.
