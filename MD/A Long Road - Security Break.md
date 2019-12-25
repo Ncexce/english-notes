@@ -108,5 +108,62 @@ Installation complete. I think I have the compiler now, for even though I still 
 sudo apt-get install kdevelop
 ```
 
-​    Installation complete. `Alt+F2`,`kdevelop`,launch. Well, in my expectations, I've seen a complicated GUI, just like in windows. However, getting used to the mode in linux, I have no interests in it.  
+​    Installation complete. `Alt+F2`,`kdevelop`, launch. Well, in my expectations, I've seen a complicated GUI, just like in windows. However, getting used to the mode in linux, I have no interests in it.  
    I tried to build a simple software, but then a message box popped up and showed that I needed a kit to build. I was fed up. Even it's powerful, I don't want to use it anymore.
+
+## Happy Vimming!
+
+> ##### Overall Development Progress: 20%  |  Security Break Countdown: 75 days
+
+   Recently, Gedit cannot meet smy requirements anymore. Its operations relies on the mouse too much, which makes me sick. I need to find a brand new text editor for my development. Wait. What is this?
+
+> #### Remote Assist #7DC524 - 2 Active Connections
+>
+> ***
+>
+> ##### Thread #1  ID: Auto-email - Displaying in: RAW
+>
+>    I think the time is up now. You may need a new text editor which uses only the keyboard to operate. Don't worry. I've found a nice editor for you before, and I think you may be familiar with it.  
+>    It is called `Vim` .  
+>    It can only run in terminal mode without a gvim GUI. Its operation is very easy. I will transfer you a tutorial. Well, Remember to read the manual carefully. Bye.
+>
+> ##### Thread #2  ID: File-transfer - Displaying in: Transferred
+>
+> ```shell
+> # Install the Vim editor:
+> sudo apt-get install vim
+> 
+> #run the vim with a file i.e. filetoedit.cc
+> vim filetoedit.cc
+> 
+> #Save
+> :w
+> 
+> #Quit
+> :q
+> 
+> #Save and quit
+> :wq
+> 
+> #Force operation
+> :some-command! #Add a character "!"
+> 
+> #Enter insert mode
+> i, a
+> 
+> #Go back to command mode
+> Esc
+> #Get help
+> :help some-topic
+> ```
+>
+>    Well, this is the basic operation. Remember!
+>
+> ***
+
+   Phew. Well, I think this is the start of my journey of using Vim. Good luck to me!
+
+## Full Terminal Operations
+
+
+
