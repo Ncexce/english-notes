@@ -165,5 +165,13 @@ sudo apt-get install kdevelop
 
 ## Full Terminal Operations
 
+   After implementing vim to my operations, I found one thing, the operation can nearly be completed in the GNOME Terminal. Then I discovered that Vim can execute external command, which means I can do everything in the vim editor. Things cannot be better. Then, what I need to do is to try my best to develop faster.  
+   Things can be changed. When browsing the stack overflow website, I found that there is another compiler called `clang` . Trying and testing this compiler, I found that this compiler can compile faster, but not all the library functions implemented.  
+   So, I'm going my next phase - using multiple compiler, and using the terminal in several different ways.
+
+
+
+## Incident Fall
+
 
 
