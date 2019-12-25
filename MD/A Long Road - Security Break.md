@@ -113,7 +113,7 @@ sudo apt-get install kdevelop
 
 ## Happy Vimming!
 
-> ##### Overall Development Progress: 20%  |  Security Break Countdown: 75 days
+> #### Overall Development Progress: 20%  |  Security Break Countdown: 75 days
 
    Recently, Gedit cannot meet smy requirements anymore. Its operations relies on the mouse too much, which makes me sick. I need to find a brand new text editor for my development. Wait. What is this?
 
