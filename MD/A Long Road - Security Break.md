@@ -173,5 +173,16 @@ sudo apt-get install kdevelop
 
 ## Incident Fall
 
+> #### Overall Development Progress: 32% | Security Break Countdown: 68 days
 
+   Incident can happen at any time, especially when you are busy dealing with some difficult problems such as debugging a important header file.  
+   The worst header, the hardware header, `touchscreenbase.h`, needs me to customize the debugger GDB. I didn't want to do that at first, but I found I can improve my speed if I do that. So, I decided to customize.  
 
+### Phase I
+
+   The first step was to update the configuration file, `preference.conf`. I chose to simplify a few commands in order to improve my speeds.  
+   I also added a few new commands for me set breakpoints. Save. OK, the first phase was finished.
+
+### Phase II
+
+   Entering the second phase, I felt a bit of stress. After all, I need to refresh the whole debugger without 
