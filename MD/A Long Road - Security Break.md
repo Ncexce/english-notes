@@ -108,7 +108,7 @@ Installation complete. I think I have the compiler now, for even though I still 
 sudo apt-get install kdevelop
 ```
 
-​    Installation complete. `Alt+F2`,`kdevelop`, launch. Well, in my expectations, I've seen a complicated GUI, just like in windows. However, getting used to the mode in linux, I have no interests in it.  
+   Installation complete. `Alt+F2`,`kdevelop`, launch. Well, in my expectations, I've seen a complicated GUI, just like in windows. However, getting used to the mode in linux, I have no interests in it.  
    I tried to build a simple software, but then a message box popped up and showed that I needed a kit to build. I was fed up. Even it's powerful, I don't want to use it anymore.
 
 ## Happy Vimming!
