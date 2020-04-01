@@ -185,4 +185,4 @@ sudo apt-get install kdevelop
 
 ### Phase II
 
-   Entering the second phase, I felt a bit of stress. After all, I need to refresh the whole debugger without 
+   Entering the second phase, I felt a bit of stress. After all, I need to refresh the whole debugger without any other manuals and debuggers. All I have is a shell and some other applications.
